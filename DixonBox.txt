@@ -1,0 +1,21 @@
+My Attempt to make a working lootcrate.
+
+The goal of this mod is to create variants of the Genesis Loot Crates that can be stored in external inventories once again.
+
+
+These three drops use the loot for the genesis lootcrates, so modify those via game.ini to edit these.
+
+Spawn Commands:
+T1
+cheat giveitem "Blueprint'/Game/Mods/DixonBox/PrimalItemConsumable_DixonBox_T1.PrimalItemConsumable_DixonBox_T1'" 1 0 0
+
+T2
+cheat giveitem "Blueprint'/Game/Mods/DixonBox/PrimalItemConsumable_DixonBox_T2.PrimalItemConsumable_DixonBox_T2'" 1 0 0
+
+T3
+cheat giveitem "Blueprint'/Game/Mods/DixonBox/PrimalItemConsumable_DixonBox_T3.PrimalItemConsumable_DixonBox_T3'" 1 0 0
+
+or you can use:
+Gfi dixonbox_t1
+gfi dixonbox_t2
+gfi dixonbox_t3
